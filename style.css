@@ -15,7 +15,7 @@
 	
 }
 .block {
-	margin: 20px;
+    margin: 20px;
     width: 100px;
     height: 100px;
     background: #212122;
@@ -33,7 +33,7 @@
      flex-direction: column;
      height: 100vh;
      align-items: center;
-	 background-color: #F73D48;
+     background-color: #F73D48;
 }
 .ar{
 	margin: 20px;
